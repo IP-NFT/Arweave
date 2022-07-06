@@ -1,0 +1,3 @@
+[submodule "arweave-js"]
+	path = arweave-js
+	url = https://github.com/ArweaveTeam/arweave-js
